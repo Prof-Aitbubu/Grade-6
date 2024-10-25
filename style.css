@@ -1,0 +1,25 @@
+.one {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.two {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 0, 191);
+}
+.three {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 247, 0);
+  border-radius: 5px;
+}
+.berry {
+  border-radius: 10px;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
